@@ -1,6 +1,7 @@
 {
     "name": "pathoschild/wikimedia-contrib",
     "license": "MIT",
+    "description": "A collection of user scripts and Tool Labs tools intended for users of Wikimedia Foundation wikis.",
     "require": {},
     "require-dev": {
         "php-parallel-lint/php-parallel-lint": "^1.3",
