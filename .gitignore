@@ -8,3 +8,5 @@ bin/
 obj/
 .data/
 .idea/
+
+/vendor/
